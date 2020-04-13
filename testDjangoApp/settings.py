@@ -25,7 +25,7 @@ SECRET_KEY = '(tbvbqsi9qwpa*jb(vl6=nw9ks**acx0l72)er8xrvf0w9a0@s'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['the-learning-bot.herokuapp.com']
 
 
 # Application definition
